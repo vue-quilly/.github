@@ -24,6 +24,7 @@ VueQuilly gives you:
 ## How to use
 
 Live demo - https://vue-quilly.vercel.app/
+
 Docs - https://vue-quilly-docs.vercel.app/
 
 ## Contributing
