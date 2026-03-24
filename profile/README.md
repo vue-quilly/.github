@@ -21,7 +21,7 @@ VueQuilly gives you:
 - SSR-friendly
 - TypeScript support
 
-# How to use
+## How to use
 
 Live demo - https://vue-quilly.vercel.app/
 Docs - https://vue-quilly-docs.vercel.app/
