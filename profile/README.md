@@ -18,7 +18,7 @@ VueQuilly gives you:
 - Dual Format Support (HTML and Quill Delta format)
 - Lightweight and flexible  
 - No styling lock-in  
-- SSR-friendly
+- Nuxt support
 - TypeScript support
 
 ## How to use
