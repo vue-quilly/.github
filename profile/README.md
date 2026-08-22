@@ -34,3 +34,5 @@ Ideas, issues, and PRs are welcome 🙂
 ## Support
 
 If you like it — give it a ⭐
+
+[Support author](https://donatello.to/OleksandrShevchuk)
